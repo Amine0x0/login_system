@@ -61,7 +61,12 @@ class Credentials:
                 break
             elif login not in user_data or user_data[login] != password:
                 print(red + "Wrong Username or Password" + reset)
-                break
+                user_input = input(yellow + "Do you want to continue? (y/n): " + reset)
+                if user_input.lower() == 'n':
+                    print(yellow + "Returning to main menu..." + reset)
+                    return
+                login = self.enter_login()
+                password = self.enter_password()
             else:
                 print(red + "Something went wrong ..." + reset)
 
