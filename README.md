@@ -14,7 +14,7 @@ ANSI Colors: The program uses ANSI color codes for colored console output. Messa
 Clone the repository to your local machine.
 Make sure you have Python installed (version 3.x).
 Install the cryptography library using pip install cryptography.
-Run the program by executing the main script using python main_script.py.
+Run the program by executing the main script using Bash script./run.sh .
 Usage
 Choose options from the menu to log in, create an account, or exit the program.
 For account creation, enter a new username and password when prompted.
