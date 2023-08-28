@@ -1,7 +1,7 @@
 from encrypt_data import generate_key, encrypt_data, decrypt_data
 from cryptography.fernet import InvalidToken
 
-# Your color codes as defined before
+#colors
 red = '\033[31m'
 blue = '\033[34m'
 yellow = '\033[33m'
