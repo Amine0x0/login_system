@@ -20,5 +20,5 @@ Choose options from the menu to log in, create an account, or exit the program.
 For account creation, enter a new username and password when prompted.
 User account data will be saved in encrypted form in user_data.txt.
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fwilly-william-ego-clip-officiel-cwWnYS&psig=AOvVaw1q6R9BUTkg9TXlm-eYRn21&ust=1708203063492000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjb8LfesIQDFQAAAAAdAAAAABAE)
+![Alt Text](https://makeagif.com/i/KKi2ot)
 
