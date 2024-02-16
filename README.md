@@ -20,5 +20,5 @@ Choose options from the menu to log in, create an account, or exit the program.
 For account creation, enter a new username and password when prompted.
 User account data will be saved in encrypted form in user_data.txt.
 
-![Alt Text](https://makeagif.com/i/KKi2ot)
+![Alt Text](code.gif)
 
